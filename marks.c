@@ -11,7 +11,8 @@ int main() {
 
     total = test1 + test2;
     printf("Total marks = %.2f\n", total);
-
+    
+    printf("yashwanth change")
     
     return 0;
 }
